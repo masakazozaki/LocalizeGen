@@ -18,6 +18,15 @@ $ python3 LocalizeGen.py {ios or android} {Spread Sheet Id} {Output Path(relativ
 ```
 Just running script with 3 argument (platformName(`ios` or `android`), Spread Sheet Id, Output Path)
 
+- example
+```
+$ python3 LocalizeGen.py ios 1A_i8k20E9lMLhziQ0ZrD4k_UcSbCKgKeKJIdPEeM5XQ /
+```
+## Google Spread Sheet Settings
+- [sample](https://docs.google.com/spreadsheets/d/1A_i8k20E9lMLhziQ0ZrD4k_UcSbCKgKeKJIdPEeM5XQ/edit#gid=0)
+- sheet ID Location in Sheet URL
+  - `https://docs.google.com/spreadsheets/d/`**1A_i8k20E9lMLhziQ0ZrD4k_UcSbCKgKeKJIdPEeM5XQ**`/edit#gid=0` 
+
 ## Contribution
 Contribution 
 
