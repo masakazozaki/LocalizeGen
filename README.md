@@ -1,11 +1,11 @@
 LocalizeGen
 ====
 
-auto-generate-localizeString from google spread sheet to iOS and android Projects
+auto-generate-localizeString from google spread sheet to iOS and Android Projects
 
 
 ## Description
-simple automation scripts to create localizableString files to ios and android.
+simple automation scripts to create localizableString files to iSO and Android.
 
 ## Requirement
 - Python3
