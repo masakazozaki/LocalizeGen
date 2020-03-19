@@ -20,7 +20,7 @@ Just running script with 3 argument (platformName(`ios` or `android`), Spread Sh
 
 ### example
 ```
-$ python3 LocalizeGen.py ios 1A_i8k20E9lMLhziQ0ZrD4k_UcSbCKgKeKJIdPEeM5XQ /
+$ python3 LocalizeGen.py ios 1A_i8k20E9lMLhziQ0ZrD4k_UcSbCKgKeKJIdPEeM5XQ /Resources
 ```
 ## Google Spread Sheet Settings
 - [sample](https://docs.google.com/spreadsheets/d/1A_i8k20E9lMLhziQ0ZrD4k_UcSbCKgKeKJIdPEeM5XQ/edit#gid=0)
