@@ -18,7 +18,7 @@ $ python3 LocalizeGen.py {ios or android} {Spread Sheet Id} {Output Path(relativ
 ```
 Just running script with 3 argument (platformName(`ios` or `android`), Spread Sheet Id, Output Path)
 
-- example
+### example
 ```
 $ python3 LocalizeGen.py ios 1A_i8k20E9lMLhziQ0ZrD4k_UcSbCKgKeKJIdPEeM5XQ /
 ```
