@@ -1,6 +1,5 @@
 import sys, csv, urllib.request, ssl, os
 
-#ios 15Ryk-uAoA3FykKFdmNXyJbviFXLyi4izP6pTec5b48M ../ AppName
 args = sys.argv
 
 if len(args) < 4:
