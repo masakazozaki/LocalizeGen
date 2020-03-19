@@ -29,7 +29,7 @@ Contribution
 
 ## Licence
 
-[WIP]
+[MIT LICENSE](https://github.com/MasakazOzaki/LocalizeGen/blob/master/LICENSE)
 
 ## Author
 
