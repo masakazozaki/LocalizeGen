@@ -5,7 +5,7 @@ auto-generate-localizeString from google spread sheet to iOS and android Project
 
 
 ## Description
-automation scripts to create localizableString files to ios and android.
+simple automation scripts to create localizableString files to ios and android.
 
 ## Requirement
 - Python3
