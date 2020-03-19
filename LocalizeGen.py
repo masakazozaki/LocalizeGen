@@ -20,13 +20,13 @@ dataList = [ e for e in csvData ]
 
 
 #Android用メソッド
-def generateAndroid(self, fileName):
-    with open(fileName + '/strings.xml', 'w') as f:
+def generateAndroid(fileName):
+    with open(dirName + '/strings.xml', 'w') as f:
         print('<?xml version="1.0" encoding="UTF-8"?>\n<resources>',file=f)
         print('\t<string name="app_name">{}</string>'.format(args[4]), file=f)
         for j in range(len(dataList)):
             print('\t<string name=\"{}\">{}</string>'.format(dataList[j][1],dataList[j][i]),file=f)
-            print('</resources>',file=f)
+        print('</resources>',file=f)
 
 #ファイルを作る
 for i in range(2,len(header)):
@@ -53,4 +53,6 @@ if args[1] == "ios":
             print('\"{}\" = \"{}\";'.format(dataList[j][1],dataList[j][i]),file=f)
 elif args[1] == "android":
     folderName = "values"
+    dirName = args[3] + folderName
+    os.makedirs(dirName, exist_ok=True)
     generateAndroid(folderName)
