@@ -9,7 +9,7 @@ automation scripts to create localizableString files to ios and android.
 
 ## Requirement
 - Python3
-  - no third party libraries required.
+  - No third party libraries required.
 - **URL SHARED** Google Spread Sheet's Id
   
 ## Usage
