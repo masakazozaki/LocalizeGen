@@ -16,7 +16,7 @@ automation scripts to create localizableString files to ios and android.
 ```
 $ python3 LocalizeGen.py {ios or android} {Spread Sheet Id} {Output Path(relative path)}
 ```
-Just running script with 3 argument platformName: (`ios` or `android`), Spread Sheet Id, Output Path 
+Just running script with 3 argument (platformName(`ios` or `android`), Spread Sheet Id, Output Path)
 
 ## Contribution
 Contribution 
