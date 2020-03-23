@@ -3,7 +3,7 @@ import sys, csv, urllib.request, ssl, os
 args = sys.argv
 
 if len(args) < 4:
-    raise Exception("引数にPlatformｍ、GoogleSpreadSheetId、出力パスを指定する必要があります")
+    raise Exception("引数にPlatform、GoogleSpreadSheetId、出力パスを指定する必要があります")
 
 #Google Spread SheetからCSVの取得
 ssl._create_default_https_context = ssl._create_unverified_context #SSL証明書エラーの回避
