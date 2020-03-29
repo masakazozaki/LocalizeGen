@@ -28,7 +28,7 @@ $ python3 LocalizeGen.py ios 1A_i8k20E9lMLhziQ0ZrD4k_UcSbCKgKeKJIdPEeM5XQ /Resou
   - `https://docs.google.com/spreadsheets/d/`**1A_i8k20E9lMLhziQ0ZrD4k_UcSbCKgKeKJIdPEeM5XQ**`/edit#gid=0` 
 
 ## Contribution
-Contribution 
+Contributions are more than welcome!
 
 1. Fork it
 2. Create your feature branch (git checkout -b hogehoge)
